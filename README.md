@@ -6,4 +6,4 @@
 
 ### NPM包
 
-`原生fs模块的扩展` [s-extra](https://github.com/jprichardson/node-fs-extra)
+`原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
