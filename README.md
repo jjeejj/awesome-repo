@@ -11,3 +11,4 @@
 ### ICON
 
 `Github 构建使用的 Icon` [octicons](https://github.com/primer/octicons)
+`Ionic 使用的字体 Icon` [ionicons](https://github.com/ionic-team/ionicons)
