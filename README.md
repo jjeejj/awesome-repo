@@ -8,6 +8,10 @@
 
 `原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
 
+`查看当前node.js或者浏览器ECMAScript特征的支持情况`[es-checker](https://github.com/ruanyf/es-checker)
+
+`检测js文件在指定的ECMAScript版本中的语法支持情况`[es-check](https://github.com/dollarshaveclub/es-check)
+
 ### ICON
 
 `Github 构建使用的 Icon` [octicons](https://github.com/primer/octicons)
