@@ -1,16 +1,20 @@
 比较好用的 repo 
 
-### 工具
+### 实用工具
 
 `图床` [PicGo](https://github.com/Molunerfinn/PicGo)
 
-### NPM包
+### 开发工具包
 
 `原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
 
 `查看当前node.js或者浏览器ECMAScript特征的支持情况`[es-checker](https://github.com/ruanyf/es-checker)
 
 `检测js文件在指定的ECMAScript版本中的语法支持情况`[es-check](https://github.com/dollarshaveclub/es-check)
+
+`一个轻量、可拓展、针对手机网页的前端开发者调试面板`[vConsole](https://github.com/Tencent/vConsole)
+
+`一个 实现 JavaScript 打字动画的库`[typed.js](https://github.com/mattboldt/typed.js)
 
 ### ICON
 
