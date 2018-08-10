@@ -4,6 +4,8 @@
 
 `图床` [PicGo](https://github.com/Molunerfinn/PicGo)
 
+`一款极易搭建的自助 Git 服务`[](https://github.com/gogs/gogs)
+
 ### 开发工具包
 
 `原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
