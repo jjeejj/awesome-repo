@@ -29,3 +29,9 @@
 `网易云音乐 Node.js API service` [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
 ### 技术书籍／资料
+
+`一个专注于聚合和记录各种SQL注入方法的wiki`[SQLInjectionWiki](https://github.com/kevins1022/SQLInjectionWiki/)
+
+### 网站／社区源码
+
+`itgeek.top 极客社区平台源码`[itgeek](https://github.com/ecdiy/itgeek)
