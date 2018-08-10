@@ -27,3 +27,5 @@
 ### API
 
 `网易云音乐 Node.js API service` [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
+
+### 技术书籍／资料
