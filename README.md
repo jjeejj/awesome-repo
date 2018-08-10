@@ -4,7 +4,7 @@
 
 `图床` [PicGo](https://github.com/Molunerfinn/PicGo)
 
-`一款极易搭建的自助 Git 服务`[](https://github.com/gogs/gogs)
+`一款极易搭建的自助 Git 服务`[gogs](https://github.com/gogs/gogs)
 
 ### 开发工具包
 
