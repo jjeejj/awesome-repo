@@ -36,6 +36,8 @@
 
 `Learn Git Branching 学习 git 的仓库网站 ` [learnGitBranching](https://github.com/pcottle/learnGitBranching)
 
+`中华新华字典数据库。包括歇后语，成语，词语，汉字` [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
+
 ### 网站／社区源码
 
 `itgeek.top 极客社区平台源码`[itgeek](https://github.com/ecdiy/itgeek)
