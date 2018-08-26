@@ -22,6 +22,8 @@
 
 `一个 实现 JavaScript 打字动画的库`[typed.js](https://github.com/mattboldt/typed.js)
 
+`一个现代化的 兼容和可扩展的所见即所得的富文本编辑器` [quill](https://github.com/quilljs/quill/)
+
 ### ICON
 
 `Github 构建使用的 Icon` [octicons](https://github.com/primer/octicons)
@@ -41,6 +43,8 @@
 `Learn Git Branching 学习 git 的仓库网站 ` [learnGitBranching](https://github.com/pcottle/learnGitBranching)
 
 `中华新华字典数据库。包括歇后语，成语，词语，汉字` [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
+
+`面试图谱` [InterviewMap](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
 ### 网站／社区 源码
 
