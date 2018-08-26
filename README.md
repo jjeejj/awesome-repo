@@ -6,6 +6,10 @@
 
 `一款极易搭建的自助 Git 服务`[gogs](https://github.com/gogs/gogs)
 
+`Mac 录屏软件` [kap](https://github.com/wulkano/kap)
+
+`Electron fiddle 在 Electron 进行练习的工具` [electron-Fiddle](https://github.com/electron/fiddle)
+
 ### 开发工具包
 
 `原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
@@ -38,6 +42,6 @@
 
 `中华新华字典数据库。包括歇后语，成语，词语，汉字` [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
 
-### 网站／社区源码
+### 网站／社区 源码
 
 `itgeek.top 极客社区平台源码`[itgeek](https://github.com/ecdiy/itgeek)
