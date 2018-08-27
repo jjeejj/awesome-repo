@@ -10,6 +10,8 @@
 
 `Electron fiddle 在 Electron 进行练习的工具` [electron-Fiddle](https://github.com/electron/fiddle)
 
+`Mac 剪切板增强工具 Clipy` [Clipy](https://github.com/Clipy/Clipy)
+
 ### 开发工具包
 
 `原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
