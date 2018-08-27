@@ -17,6 +17,8 @@
 
 `creating, testing, and learning about Regular Expressions` [https://regexr.com/](https://regexr.com/)
 
+`图片压缩网站` [https://tinypng.com/](https://tinypng.com/)
+
 ### Icon 网站
 
 `icomoon` [https://icomoon.io/](https://icomoon.io/)
