@@ -12,6 +12,10 @@
 
 `Mac 剪切板增强工具 Clipy` [Clipy](https://github.com/Clipy/Clipy)
 
+ `一个轻量级和高性能的图片处理系统(不过现在只兼容 imagemagick-6，对于 imagemagick-7还不兼容)))` [zimg](https://github.com/buaazp/zimg)
+
+ `一个 HTTP 命令行客户端,支持输出 JSON、语法高亮等特性` [httpie](https://github.com/jakubroztocil/httpie)
+
 ### 开发工具包
 
 `原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
