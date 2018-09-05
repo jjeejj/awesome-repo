@@ -16,6 +16,10 @@
 
  `一个 HTTP 命令行客户端,支持输出 JSON、语法高亮等特性` [httpie](https://github.com/jakubroztocil/httpie)
 
+ `桌面版脑图 开箱即用` [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
+
+ `美化代码,生成分享图片的工具` [carbon](https://github.com/dawnlabs/carbon)
+
 ### 开发工具包
 
 `原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
@@ -29,6 +33,7 @@
 `一个 实现 JavaScript 打字动画的库`[typed.js](https://github.com/mattboldt/typed.js)
 
 `一个现代化的 兼容和可扩展的所见即所得的富文本编辑器` [quill](https://github.com/quilljs/quill/)
+
 
 ### ICON
 
