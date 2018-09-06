@@ -16,9 +16,11 @@
 
  `一个 HTTP 命令行客户端,支持输出 JSON、语法高亮等特性` [httpie](https://github.com/jakubroztocil/httpie)
 
- `桌面版脑图 开箱即用` [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
+ `桌面版脑图 开箱即用` [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) [DesktopNaotu/jjeejj](https://github.com/jjeejj/DesktopNaotu)
 
  `美化代码,生成分享图片的工具` [carbon](https://github.com/dawnlabs/carbon)
+
+ `U盘格式化和制作镜像启动盘的工具等` [rufus](https://github.com/pbatard/rufus)
 
 ### 开发工具包
 
