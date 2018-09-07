@@ -25,3 +25,8 @@
 ### Icon 网站
 
 `icomoon` [https://icomoon.io/](https://icomoon.io/)
+
+### 图解知识网站
+
+`用猫的图片标示 HTTP 状态码的信息` [https://http.cat/](https://http.cat/)
+
