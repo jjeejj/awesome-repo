@@ -19,6 +19,8 @@
 
 `图片压缩网站` [https://tinypng.com/](https://tinypng.com/)
 
+`腾讯的图片压缩网站` [https://zhitu.isux.us/](https://zhitu.isux.us/)
+
 `josn 格式化网站` [https://www.json.cn/](https://www.json.cn/)
 
 
