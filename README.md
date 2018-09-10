@@ -59,6 +59,8 @@
 
 `面试图谱` [InterviewMap](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
+`Google 开源项目风格指南 (中文版)` [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide)
+
 ### 网站／社区 源码
 
 `itgeek.top 极客社区平台源码`[itgeek](https://github.com/ecdiy/itgeek)
