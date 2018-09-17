@@ -6,6 +6,10 @@
 
 `Logo 设计网站` [https://brandmark.io/](https://brandmark.io/)
 
+### 代码编辑网站
+
+`运行和保存 HTML CSS JS 代码片段的网站 codepen` [https://codepen.io](https://codepen.io)
+
 ### 学习网站
 
 `Learn Git Branching 学习 git 的网站 ` [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
@@ -24,6 +28,8 @@
 `腾讯的图片压缩网站` [https://zhitu.isux.us/](https://zhitu.isux.us/)
 
 `josn 格式化网站` [https://www.json.cn/](https://www.json.cn/)
+
+`易码平台,提供手机号验证码` [http://www.51ym.me/](http://www.51ym.me/)
 
 
 ### Icon 网站
