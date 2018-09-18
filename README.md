@@ -31,6 +31,8 @@
 
 `易码平台,提供手机号验证码` [http://www.51ym.me/](http://www.51ym.me/)
 
+`浮点数 转换为 IEEE-754规范 后的二进制表示方法 (JS 中的数为该规范的双精度浮点数类型)` [Conversion IEEE-754](https://babbage.cs.qc.cuny.edu/IEEE-754.old/Decimal.html)
+
 
 ### Icon 网站
 
