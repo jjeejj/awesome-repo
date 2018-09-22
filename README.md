@@ -24,6 +24,10 @@
 
  `基于Node实现的跨平台抓包调试代理工具` [whistle](https://github.com/avwo/whistle/blob/master/README-zh_CN.md)
 
+ `Chrome Extension Web前端助手 包含一些常用的工具` [FeHelper](https://github.com/zxlie/FeHelper)
+
+ `在 Readme 中添加各种类型提示的svg小图标,包括 build download .... ` [shields](https://github.com/badges/shields)
+
 ### 开发工具包
 
 `原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
@@ -63,6 +67,8 @@
 `面试图谱` [InterviewMap](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
 `Google 开源项目风格指南 (中文版)` [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide)
+
+`Linux 就该这样学的电子书籍` []()
 
 ### 网站／社区 源码
 
