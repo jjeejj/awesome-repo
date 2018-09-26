@@ -68,7 +68,7 @@
 
 `Google 开源项目风格指南 (中文版)` [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide)
 
-`Linux 就该这样学的电子书籍` []()
+`这是一本关于GitHub的书` [gotgithub](https://github.com/gotgit/gotgithub)
 
 ### 网站／社区 源码
 
