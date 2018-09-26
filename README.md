@@ -35,7 +35,7 @@
 
 `Google 网页性能优化分析工具` [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
 
-`SSL Configuration Generator (SSL配置生成网站)[https://mozilla.github.io/server-side-tls/ssl-config-generator/](https://mozilla.github.io/server-side-tls/ssl-config-generator/)`
+`SSL Configuration Generator (SSL配置生成网站)` [https://mozilla.github.io/server-side-tls/ssl-config-generator/](https://mozilla.github.io/server-side-tls/ssl-config-generator/)`
 
 ### Icon 网站
 
