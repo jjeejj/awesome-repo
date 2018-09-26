@@ -35,6 +35,7 @@
 
 `Google 网页性能优化分析工具` [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
 
+`SSL Configuration Generator (SSL配置生成网站) [https://mozilla.github.io/server-side-tls/ssl-config-generator/](https://mozilla.github.io/server-side-tls/ssl-config-generator/)`
 
 ### Icon 网站
 
@@ -45,4 +46,8 @@
 ### 图解知识网站
 
 `用猫的图片标示 HTTP 状态码的信息` [https://http.cat/](https://http.cat/)
+
+### 资源继承网站
+
+`mozilla webdev 是 Mozillians 开发网站的 一些产品项目` [https://mozilla.github.io/webdev/](https://mozilla.github.io/webdev/)
 
