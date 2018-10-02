@@ -76,6 +76,8 @@
 
 `这是一本关于GitHub的书` [gotgithub](https://github.com/gotgit/gotgithub)
 
+`How to be a Programmer 中文版` [how-to-be-a-programmer](https://braydie.gitbooks.io/how-to-be-a-programmer/content/zh/)
+
 ### 网站／社区 源码
 
 `itgeek.top 极客社区平台源码`[itgeek](https://github.com/ecdiy/itgeek)
