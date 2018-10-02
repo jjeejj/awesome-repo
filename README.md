@@ -48,6 +48,8 @@
 
 `一个非常强大的模版引擎,具有丰富的功能` [nunjucks](https://github.com/mozilla/nunjucks)
 
+`一个高性能的 Nodejs 图片处理模块,改变一个图片比传统的使用 ImageMagick 或者 GraphicsMagick  快了4-5倍,依赖 libvips 库`[sharp](https://github.com/lovell/sharp) 
+
 ### ICON
 
 `Github 构建使用的 Icon` [octicons](https://github.com/primer/octicons)
