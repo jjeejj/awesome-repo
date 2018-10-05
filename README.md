@@ -51,3 +51,8 @@
 
 `mozilla webdev 是 Mozillians 开发网站的 一些产品项目` [https://mozilla.github.io/webdev/](https://mozilla.github.io/webdev/)
 
+### 图片素材网站
+
+`免费的无背景的png图片素材网站 Stickpng` [http://www.stickpng.com/](http://www.stickpng.com/)
+
+
