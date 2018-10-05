@@ -33,6 +33,8 @@
 
 `浮点数 转换为 IEEE-754规范 后的二进制表示方法 (JS 中的数为该规范的双精度浮点数类型)` [Conversion IEEE-754](https://babbage.cs.qc.cuny.edu/IEEE-754.old/Decimal.html)
 
+`Online Binary-Decimal Converter 图形转换` [binaryconvert](http://www.binaryconvert.com/index.html)
+
 `Google 网页性能优化分析工具` [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
 
 `SSL Configuration Generator (SSL配置生成网站)` [https://mozilla.github.io/server-side-tls/ssl-config-generator/](https://mozilla.github.io/server-side-tls/ssl-config-generator/)`
