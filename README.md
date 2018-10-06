@@ -28,6 +28,9 @@
 
  `在 Readme 中添加各种类型提示的svg小图标,包括 build download .... ` [shields](https://github.com/badges/shields)
 
+ `几何化 图片` [geometrize-haxe](https://github.com/Tw1ddle/geometrize-haxe/)
+ 
+
 ### 开发工具包
 
 `原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
