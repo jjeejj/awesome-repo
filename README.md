@@ -29,6 +29,9 @@
  `在 Readme 中添加各种类型提示的svg小图标,包括 build download .... ` [shields](https://github.com/badges/shields)
 
  `几何化 图片` [geometrize-haxe](https://github.com/Tw1ddle/geometrize-haxe/)
+
+ `List of useful Quick Look plugins for developers` [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
+ 
  
 
 ### 开发工具包
