@@ -56,6 +56,9 @@
 
 `mozilla webdev 是 Mozillians 开发网站的 一些产品项目` [https://mozilla.github.io/webdev/](https://mozilla.github.io/webdev/)
 
+`QuickLook Plugins List, Quick Look Plugins for Apple's OS X` [http://www.quicklookplugins.com/](http://www.quicklookplugins.com/)
+
+
 ### 图片素材网站
 
 `免费的无背景的png图片素材网站 Stickpng` [http://www.stickpng.com/](http://www.stickpng.com/)
