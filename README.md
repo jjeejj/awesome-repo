@@ -56,6 +56,9 @@
 
 `一个高性能的 Nodejs 图片处理模块,改变一个图片比传统的使用 ImageMagick 或者 GraphicsMagick  快了4-5倍,依赖 libvips 库`[sharp](https://github.com/lovell/sharp) 
 
+`Node mime-types npm 包` [mime-types](https://github.com/jshttp/mime-types)
+
+
 ### ICON
 
 `Github 构建使用的 Icon` [octicons](https://github.com/primer/octicons)
