@@ -16,8 +16,6 @@
 
 `数据结构 算法 刷题网站` [https://leetcode.com](https://leetcode.com)
 
-
-
 ### 工具网站
 
 `Create useful .gitignore files for your project` [https://www.gitignore.io/](https://www.gitignore.io/)
@@ -45,6 +43,8 @@
 `几何化 图片的网站` [https://www.samcodes.co.uk/project/geometrize-haxe-web/](https://www.samcodes.co.uk/project/geometrize-haxe-web/)
 
 `数据算法结构可视化网站` [https://www.cs.usfca.edu/~galles/visualization/](https://www.cs.usfca.edu/~galles/visualization/)
+
+`Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集` [https://wangchujiang.com/linux-command/](https://wangchujiang.com/linux-command/)
 
 
 ### Icon 网站
