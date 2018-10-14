@@ -33,7 +33,6 @@
  `List of useful Quick Look plugins for developers` [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
  
  
-
 ### 开发工具包
 
 `原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
@@ -86,6 +85,9 @@
 `这是一本关于GitHub的书` [gotgithub](https://github.com/gotgit/gotgithub)
 
 `How to be a Programmer 中文版` [how-to-be-a-programmer](https://braydie.gitbooks.io/how-to-be-a-programmer/content/zh/)
+
+`Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集` [linux-command](https://github.com/jaywcjlove/linux-command)
+
 
 ### 网站／社区 源码
 
