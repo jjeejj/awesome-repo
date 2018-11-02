@@ -57,6 +57,9 @@
 
 `Node mime-types npm 包` [mime-types](https://github.com/jshttp/mime-types)
 
+`OBS Studio Free and open source software for live streaming and screen recording ` [OBS Studio](https://github.com/obsproject/obs-studio)
+
+
 
 ### ICON
 
