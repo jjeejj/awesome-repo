@@ -31,6 +31,9 @@
  `几何化 图片` [geometrize-haxe](https://github.com/Tw1ddle/geometrize-haxe/)
 
  `List of useful Quick Look plugins for developers` [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
+
+ `OBS Studio - Free and open source software for live streaming and screen recording` [OBS Studio](https://github.com/obsproject/obs-studio)
+ 
  
  
 ### 开发工具包
