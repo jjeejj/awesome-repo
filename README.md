@@ -33,6 +33,9 @@
  `List of useful Quick Look plugins for developers` [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
 
  `OBS Studio - Free and open source software for live streaming and screen recording` [OBS Studio](https://github.com/obsproject/obs-studio)
+
+ `aria2 是一个轻量级 多协议跨平台的下载工具` [aria2](https://github.com/aria2/aria2)
+ 
  
  
  
