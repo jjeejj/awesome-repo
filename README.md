@@ -37,8 +37,11 @@
  `aria2 是一个轻量级 多协议跨平台的下载工具` [aria2](https://github.com/aria2/aria2)
  
  `testlink 是一个测试管理系统 (书写测试用例什么的...)` [testlink](https://github.com/TestLinkOpenSourceTRMS/testlink-code)
+
+ `一个终端录制命令行工具` [asciinema](https://github.com/asciinema/asciinema)
  
- 
+  `一个免费开源的 SQL 数据库图形化软件` [dbeaver](https://github.com/dbeaver/dbeaver)
+  
  
 ### 开发工具包
 
@@ -64,9 +67,9 @@
 
 `Node mime-types npm 包` [mime-types](https://github.com/jshttp/mime-types)
 
-`OBS Studio Free and open source software for live streaming and screen recording ` [OBS Studio](https://github.com/obsproject/obs-studio)
+`时间格式与毫秒相互转换` [ms](https://github.com/zeit/ms)
 
-
+`一个集成多家快递公司的，快递信息查询 npm 包` [xto](https://github.com/XadillaX/xto)
 
 ### ICON
 
