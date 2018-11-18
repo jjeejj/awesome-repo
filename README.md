@@ -41,6 +41,9 @@
  `一个终端录制命令行工具` [asciinema](https://github.com/asciinema/asciinema)
  
   `一个免费开源的 SQL 数据库图形化软件` [dbeaver](https://github.com/dbeaver/dbeaver)
+
+  `Rocket.Chat 是特性最丰富的 Slack 开源替代品之一。 主要功能：群组聊天，直接通信，私聊群，桌面通知，媒体嵌入，链接预览，文件上传，语音/视频 聊天，截图等等` [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+  
   
  
 ### 开发工具包
