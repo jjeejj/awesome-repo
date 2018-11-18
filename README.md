@@ -76,6 +76,9 @@
 
 `一个参数校验的 npm 工具包` [parameter](https://github.com/node-modules/parameter)
 
+`一个完全可定制化的富文本编辑器` [slate](https://github.com/ianstormtaylor/slate)
+
+
 
 ### ICON
 
