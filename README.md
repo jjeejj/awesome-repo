@@ -18,6 +18,8 @@
 
 `算法刷题网站` [https://www.hackerrank.com](https://www.hackerrank.com)
 
+`Google 怎构建更好的现代 Web网站` [web.dev](https://web.dev/)
+
 
 ### 工具网站
 
