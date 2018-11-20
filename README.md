@@ -78,6 +78,7 @@
 
 `一个完全可定制化的富文本编辑器` [slate](https://github.com/ianstormtaylor/slate)
 
+`在 Nodejs 中连接 Java 调用 Java的API 和其他的 jar 包` [node-java](https://github.com/joeferner/node-java)
 
 
 ### ICON
