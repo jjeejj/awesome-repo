@@ -48,6 +48,10 @@
 
   `File Sharing Experiment tool (临时文件分享工具)` [send](https://github.com/mozilla/send)
   
+  `docker 进行每一层 layer 文件查看工具` [dive](https://github.com/wagoodman/dive)
+
+  `比较两个镜像之间的差异，和分析镜像的基础功能` [container-diff](https://github.com/GoogleContainerTools/container-diff)
+  
   
   
   
