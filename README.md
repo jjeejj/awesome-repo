@@ -6,6 +6,8 @@
 
 `一款极易搭建的自助 Git 服务`[gogs](https://github.com/gogs/gogs)
 
+`一个 Java 实现的 Git 仓库 服务解决方案` [gitblit](https://github.com/gitblit/gitblit)
+
 `Mac 录屏软件` [kap](https://github.com/wulkano/kap)
 
 `Electron fiddle 在 Electron 进行练习的工具` [electron-Fiddle](https://github.com/electron/fiddle)
@@ -88,6 +90,10 @@
 
 `在 Nodejs 中连接 Java 调用 Java的API 和其他的 jar 包` [node-java](https://github.com/joeferner/node-java)
 
+`ECMAScript 工具账户，包含 词法分析 语法分析 AST(抽象语法树) 的生成遍历 各种 npm 工具包` [estools](https://github.com/estools)
+
+`对 JS 进行 词法分析 语法分析 的 工具包` [esprima](https://github.com/jquery/esprima)
+
 
 ### ICON
 
@@ -122,6 +128,9 @@
 `Go By Example 中文版 学习案例` [gobyexample](https://github.com/xg-wang/gobyexample)
 
  `一个算法可视化学习仓库 网站(可自行搭建)` [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+
+ `TypeScript 学习中文版` [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)
+ 
 
 ### 网站／社区 源码
 
