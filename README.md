@@ -94,6 +94,9 @@
 
 `对 JS 进行 词法分析 语法分析 的 工具包` [esprima](https://github.com/jquery/esprima)
 
+`一个 JavaScript 在浏览器中或者Nodejs中使用的 内存数据库` [alasql](https://github.com/agershun/alasql)
+
+
 
 ### ICON
 
