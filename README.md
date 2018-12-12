@@ -20,6 +20,9 @@
 
 `Google 怎构建更好的现代 Web网站` [web.dev](https://web.dev/)
 
+`一个轻松学习数学的网站` [数学乐](http://shuxuele.com/)
+
+
 
 ### 工具网站
 
