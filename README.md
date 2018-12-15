@@ -134,6 +134,8 @@
 
  `TypeScript 学习中文版` [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)
  
+ `Git权威指南 的电子书籍` [Git权威指南 GotGit](https://github.com/gotgit/gotgit)
+ 
 
 ### 网站／社区 源码
 
