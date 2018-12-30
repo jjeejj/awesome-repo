@@ -141,6 +141,7 @@
 
  `envoyproxy 智能代理中文参考文档 v1.5.0` [envoy](https://github.com/lixiangyun/envoyproxy_doc_ZH_CN)
  
+ `IPFS 从入门到精通 学习资源` [IPFS-Internals](https://github.com/xipfs/IPFS-Internals/blob/master/ebook/SUMMARY.md)
  
  
 
