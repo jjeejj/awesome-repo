@@ -63,6 +63,10 @@
 
 `在 window 进行 c c++ 开发 需要安装的工具` [mingw](http://mingw.org/)
 
+`国外主流视频解析下载网站` [vlogdownloader](https://www.vlogdownloader.com/)
+
+`国内主流视频解析下载网站` [parsevideo](https://www.parsevideo.com/)
+
 
 
 ### Icon 网站
