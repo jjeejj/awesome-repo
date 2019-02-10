@@ -147,7 +147,7 @@
  
  `IPFS 从入门到精通 学习资源` [IPFS-Internals](https://github.com/xipfs/IPFS-Internals/blob/master/ebook/SUMMARY.md)
  
- 
+ `现代 Javascript 教程 包含各种语言` [javascript-tutorial](https://github.com/iliakan/javascript-tutorial-en)
 
 ### 网站／社区 源码
 
