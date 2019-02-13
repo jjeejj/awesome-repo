@@ -37,6 +37,8 @@
  `OBS Studio - Free and open source software for live streaming and screen recording` [OBS Studio](https://github.com/obsproject/obs-studio)
 
  `aria2 是一个轻量级 多协议跨平台的下载工具` [aria2](https://github.com/aria2/aria2)
+
+ `Windows 下的 Aria2 GUI 桌面版本` [Aria2GUI-for-Windows](https://github.com/JiaxunCai/Aria2GUI-for-Windows)
  
  `testlink 是一个测试管理系统 (书写测试用例什么的...)` [testlink](https://github.com/TestLinkOpenSourceTRMS/testlink-code)
 
