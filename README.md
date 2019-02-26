@@ -137,6 +137,10 @@
 
 `Go By Example 中文版 学习案例` [gobyexample](https://github.com/xg-wang/gobyexample)
 
+`Go2编程指南` [go2-book](https://github.com/chai2010/go2-book)
+
+`C/C++面向WebAssembly编程` [cppwasm-book](https://github.com/3dgen/cppwasm-book)
+
  `一个算法可视化学习仓库 网站(可自行搭建)` [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
  `TypeScript 学习中文版` [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)
