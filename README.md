@@ -60,7 +60,15 @@
   
   `一个 简单的 MarkDwon 笔记记录的 App` [notable](https://github.com/fabiospampinato/notable)
   
-   `一个 为开发者 跨平台的 markdown 编辑器 应用` [Boostnote](https://github.com/BoostIO/Boostnote)
+  `一个 为开发者 跨平台的 markdown 编辑器 应用` [Boostnote](https://github.com/BoostIO/Boostnote)
+   
+  `视频压缩软件 andBrake` [andBrake](https://github.com/HandBrake/HandBrake)
+  
+  `音频编辑软件 audacity` [audacity](https://github.com/audacity/audacity)
+  
+  `简单图片编辑软件 gimp` [gimp](https://github.com/GNOME/gimp)
+  
+  `一款全能的下载工具 Motrix` [Motrix](https://github.com/agalwood/Motrix/blob/master/README-CN.md)
   
  
 ### 开发工具包
