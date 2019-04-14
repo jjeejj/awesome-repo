@@ -113,6 +113,8 @@
 
 `Modern Telegram Bot Framework for Node.js 一个nodejs Telegram Bot的框架` [telegraf](https://github.com/telegraf/telegraf)
 
+`匹配 shell 命令行参数信息，并显示帮助文档 explainshell ` [explainshell](https://www.explainshell.com/)
+
 ### ICON
 
 `Github 构建使用的 Icon` [octicons](https://github.com/primer/octicons)
