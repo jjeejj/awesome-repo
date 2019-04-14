@@ -70,6 +70,7 @@
   
   `一款全能的下载工具 Motrix` [Motrix](https://github.com/agalwood/Motrix/blob/master/README-CN.md)
   
+  `匹配 shell 命令行参数信息，并显示帮助文档 explainshell ` [explainshell](https://www.explainshell.com/)
  
 ### 开发工具包
 
@@ -112,8 +113,6 @@
 `一个 JavaScript 在浏览器中或者Nodejs中使用的 内存数据库` [alasql](https://github.com/agershun/alasql)
 
 `Modern Telegram Bot Framework for Node.js 一个nodejs Telegram Bot的框架` [telegraf](https://github.com/telegraf/telegraf)
-
-`匹配 shell 命令行参数信息，并显示帮助文档 explainshell ` [explainshell](https://www.explainshell.com/)
 
 ### ICON
 
