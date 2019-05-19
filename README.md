@@ -85,6 +85,8 @@
 
 `QuickLook Plugins List, Quick Look Plugins for Apple's OS X` [http://www.quicklookplugins.com/](http://www.quicklookplugins.com/)
 
+`vimawesome vim好用插件的收集网站` [https://vimawesome.com/](https://vimawesome.com/)
+
 
 ### 图片素材网站
 
