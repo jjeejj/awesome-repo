@@ -71,6 +71,8 @@
   `一款全能的下载工具 Motrix` [Motrix](https://github.com/agalwood/Motrix/blob/master/README-CN.md)
   
   `匹配 shell 命令行参数信息，并显示帮助文档 explainshell ` [explainshell](https://www.explainshell.com/)
+  
+  `一个Mac菜单栏轻量级的日历 Itsycal` [Itsycal](https://github.com/sfsam/Itsycal)
  
 ### 开发工具包
 
