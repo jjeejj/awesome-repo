@@ -89,7 +89,7 @@
 
 `vimawesome vim好用插件的收集网站` [https://vimawesome.com/](https://vimawesome.com/)
 
-`unicode 官方所有的emoji表情列表` [http://www.unicode.org/emoji/charts/full-emoji-list.html](http://www.unicode.org/emoji/charts/full-emoji-list.html)
+`unicode 官方定义的emoji表情列表` [http://www.unicode.org/emoji/charts/full-emoji-list.html](http://www.unicode.org/emoji/charts/full-emoji-list.html)
 
 
 ### 图片素材网站
