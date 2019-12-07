@@ -76,6 +76,8 @@
   
   `Mac OS mackdown 编辑器` [https://github.com/MacDownApp/macdown]
  
+  `IINA Mac 全能播放器` [https://github.com/iina/iina]
+ 
 ### 开发工具包
 
 `原生fs模块的扩展` [fs-extra](https://github.com/jprichardson/node-fs-extra)
