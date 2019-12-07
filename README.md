@@ -73,6 +73,8 @@
   `匹配 shell 命令行参数信息，并显示帮助文档 explainshell ` [explainshell](https://www.explainshell.com/)
   
   `一个Mac菜单栏轻量级的日历 Itsycal` [Itsycal](https://github.com/sfsam/Itsycal)
+  
+  `Mac OS mackdown 编辑器` [https://github.com/MacDownApp/macdown]
  
 ### 开发工具包
 
