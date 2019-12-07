@@ -12,6 +12,8 @@
 
 `在线运行多种编程语言的工具,还可以在线练习MongoDB,MySQL` [https://www.jdoodle.com/](https://www.jdoodle.com/)
 
+`在线 SQL 练习平台` [http://sqlfiddle.com/] 
+
 ### 学习网站
 
 `Learn Git Branching 学习 git 的网站 ` [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
@@ -24,7 +26,7 @@
 
 `一个轻松学习数学的网站` [数学乐](http://shuxuele.com/)
 
-
+`SQL刷题网站` [https://sqlzoo.net/]
 
 ### 工具网站
 
