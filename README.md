@@ -77,6 +77,8 @@
   `Mac OS mackdown 编辑器` [https://github.com/MacDownApp/macdown]
  
   `IINA Mac 全能播放器` [https://github.com/iina/iina]
+  
+  `Keka Mac上好用的解压缩软件` [https://github.com/aonez/Keka]
  
 ### 开发工具包
 
