@@ -79,6 +79,8 @@
   `IINA Mac 全能播放器` [https://github.com/iina/iina]
   
   `Keka Mac上好用的解压缩软件` [https://github.com/aonez/Keka]
+  
+  `calibre 一款跨平台的电子书管理软件` [https://github.com/kovidgoyal/calibre]
  
 ### 开发工具包
 
