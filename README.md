@@ -95,6 +95,8 @@
 
 `unicode 官方定义的emoji表情列表` [http://www.unicode.org/emoji/charts/full-emoji-list.html](http://www.unicode.org/emoji/charts/full-emoji-list.html)
 
+`Mac quicklook 插件网站` [http://www.quicklookplugins.com/]
+
 
 ### 图片素材网站
 
