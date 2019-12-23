@@ -4,6 +4,8 @@
 
 `图床` [PicGo](https://github.com/Molunerfinn/PicGo)
 
+`Mac 又一款图床工具` [uPic](https://github.com/gee1k/uPic)
+
 `一款极易搭建的自助 Git 服务`[gogs](https://github.com/gogs/gogs)
 
 `一个 Java 实现的 Git 仓库 服务解决方案` [gitblit](https://github.com/gitblit/gitblit)
