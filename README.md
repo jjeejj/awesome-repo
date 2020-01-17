@@ -20,6 +20,8 @@
 
 `数据结构 算法 刷题网站` [https://leetcode.com](https://leetcode.com)
 
+`算法 刷题网站` [https://www.lintcode.com](https://www.lintcode.com)
+
 `算法刷题网站` [https://www.hackerrank.com](https://www.hackerrank.com)
 
 `Google 怎构建更好的现代 Web网站` [web.dev](https://web.dev/)
