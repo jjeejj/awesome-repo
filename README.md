@@ -85,6 +85,8 @@
   `calibre 一款跨平台的电子书管理软件` [https://github.com/kovidgoyal/calibre]
   
   `drawio 一个画图工具软件` [https://github.com/jgraph/drawio-desktop]
+  
+  `joplin 一个跨平台的笔记软件` [https://github.com/laurent22/joplin]
  
 ### 开发工具包
 
