@@ -77,6 +77,8 @@
 
 `ES6, ES7 等等 在 各 nodejs 版本中的支持情况` [https://node.green/]
 
+`表格代码生成网站:包括Latex, HTML等等` [tablesgenerator](http://www.tablesgenerator.com/latex_tables#)
+
 ### Icon 网站
 
 `icomoon` [https://icomoon.io/](https://icomoon.io/)
