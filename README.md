@@ -87,6 +87,8 @@
   `drawio 一个画图工具软件` [https://github.com/jgraph/drawio-desktop]
   
   `joplin 一个跨平台的笔记软件` [https://github.com/laurent22/joplin]
+  
+  `Quick Look window上空格快速查看文件信息的软件` [QuickLook](https://github.com/QL-Win/QuickLook)
  
 ### 开发工具包
 
