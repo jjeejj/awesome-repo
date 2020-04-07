@@ -185,6 +185,8 @@
  `现代 Javascript 教程 包含各种语言` [javascript-tutorial](https://github.com/iliakan/javascript-tutorial-en)
 
  `ECMAScript 5/6/7 特性兼容性列表` [ECMAScript 5/6/7 compatibility tables](https://github.com/kangax/compat-table)
+ 
+ `OpenCV-Python4.1 中文文档` [OpenCVTutorials](https://github.com/fendouai/OpenCVTutorials)
 
 ### 网站／社区 源码
 
